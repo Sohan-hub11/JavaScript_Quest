@@ -85,5 +85,6 @@ for(k = 5; k<=50; k+=5){
 let n = prompt("Enter a number..") //by default changing to strings.
 n = parseInt(n); //converting to integers
 for(let m = n; m<=n*10; m+=n){
-    console.log(m);
+    //console.log(m);
+
 }
