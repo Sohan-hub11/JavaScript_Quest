@@ -69,3 +69,12 @@ heading.style.color = "red"; //changes to red.
 heading.style.color = "blue"; //changes to blue.
 //'blue'
 
+
+
+//ClassList Property -->
+
+obj.classList;
+obj.classList.add(" "); //To add Style class.
+obj.classList.remove(" "); //To remove style.
+obj.classList.contains(" "); //To check class exist or not.
+obj.classList.toggle(" "); //To add or remove class. add-> remove.........remove-> add
