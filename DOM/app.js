@@ -1,16 +1,16 @@
 //Selecting Elements -->
 
-//console.dir(document);
+console.dir(document);
 
 document.getElementById("description"); //get element by Id.
-//console.dir(document.getElementById("description")); //to get id as object.
+console.dir(document.getElementById("description")); //to get id as object.
 
 document.getElementsByClassName("oldImg"); //get element by class name.
 
 let oimg = document.getElementsByClassName("oldImg");
 for( let i = 0; i< oimg.length; i++){
-    //console.log(oimg[i]);
-    //console.log(oimg[i].src);
+    console.log(oimg[i]); //To print the img
+    console.log(oimg[i].src); //To print img sources
     oimg[i].src="assets/spiderman_img.png";
     console.log(`The value of old img is changed to. ${i}`);
 
@@ -78,3 +78,4 @@ obj.classList.add(" "); //To add Style class.
 obj.classList.remove(" "); //To remove style.
 obj.classList.contains(" "); //To check class exist or not.
 obj.classList.toggle(" "); //To add or remove class. add-> remove.........remove-> add
+
