@@ -79,3 +79,42 @@ obj.classList.remove(" "); //To remove style.
 obj.classList.contains(" "); //To check class exist or not.
 obj.classList.toggle(" "); //To add or remove class. add-> remove.........remove-> add
 
+
+//Adding Element on Page -->
+
+document.createElement('p');
+//<p>​</p>​
+let newp = document.createElement("p");
+newp.innerText = "It is a new p";
+let body = document.querySelector("body");
+body.appendChild(newp);
+//<p>​It is a new p​</p>​
+let btn = document.createElement("button");
+btn.innerHTML = "Click me!";
+box.appendChild(btn);
+//<button>​Click me!​</button>​
+box.append("where to click"); //to insert at last.
+
+box.prepend("it is prepend text"); //to insert at first.
+ //Insert Adjacent Element.
+//  'beforebegin': Before the targetElement itself.
+// 'afterbegin': Just inside the targetElement, before its first child.
+// 'beforeend': Just inside the targetElement, after its last child.
+// 'afterend': After the targetElement itself.
+
+let p = document.querySelector('p');
+p.insertAdjacentElement('beforebegin' ,btn);​
+
+p.insertAdjacentElement('afterbegin' ,btn);
+
+p.insertAdjacentElement('beforeend' ,btn);
+
+p.insertAdjacentElement('afterend' ,btn);
+
+// <!-- beforebegin -->
+// <p>
+//   <!-- afterbegin -->
+//   foo
+//   <!-- beforeend -->
+// </p>
+// <!-- afterend -->
