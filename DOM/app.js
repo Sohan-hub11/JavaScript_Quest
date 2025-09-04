@@ -19,3 +19,11 @@ for( let i = 0; i< oimg.length; i++){
 document.getElementsByTagName("p"); //get element by tag name.
 document.getElementsByTagName("p")[1].innerText="aba";
 
+//Query Selectors -->
+
+console.dir(document.querySelector("h1"));
+console.dir(document.querySelector("#description"));
+console.dir(document.querySelector(".oldimg"));
+console.dir(document.querySelector("div a"));
+
+console.dir(document.querySelectorAll("h1"));
