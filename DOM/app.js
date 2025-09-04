@@ -49,3 +49,23 @@ heading.innerHTML
 heading.innerText
 //'Spider Man'
 heading.innerHTML = `<u>${heading.innerText}</u>`; //changing th text to underlines.
+
+
+//Manipulating Attributes -->
+
+let img=document.querySelector("img");
+//'mainImg'
+img.getAttribute("id");
+img.setAttribute("id","spiderman");
+
+
+//Manipulating Style -->
+
+let heading = document.querySelector("h1");
+heading.style;
+//CSSStyleDeclaration {accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+heading.style.color = "red"; //changes to red.
+//'red'
+heading.style.color = "blue"; //changes to blue.
+//'blue'
+
