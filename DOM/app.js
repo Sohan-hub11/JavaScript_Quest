@@ -13,4 +13,9 @@ for( let i = 0; i< oimg.length; i++){
     //console.log(oimg[i].src);
     oimg[i].src="assets/spiderman_img.png";
     console.log(`The value of old img is changed to. ${i}`);
+
 }
+
+document.getElementsByTagName("p"); //get element by tag name.
+document.getElementsByTagName("p")[1].innerText="aba";
+
