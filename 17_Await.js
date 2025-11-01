@@ -19,3 +19,4 @@ async function demo() {
     getNum();
 }
 
+demo();
