@@ -96,3 +96,35 @@
 
 ### ⚙️ OOP
 - `OOPs/`
+  
+---
+
+## 🎬 Demo / Preview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---
+
+
+## 🌟 Motivation
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+## 👨‍💻 Author
+
+**Sohan Samanta**  
+🔗 https://github.com/Sohan-hub11  
+
+---
+
+## ⭐ Support
+
+If you like this repo:
+
+⭐ Star it  
+📢 Share it  
+💼 Add to your portfolio  
