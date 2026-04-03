@@ -26,4 +26,73 @@
 
 ---
 
-## 📁 Project Structure
+## 📚 Topics Covered
+
+### 🟢 Basics
+- Conditional Statements  
+- Loops  
+- Practice & Assignments  
+
+### 🟡 Core JavaScript
+- Strings  
+- Arrays  
+- Objects (Object Literals)  
+- Functions  
+
+### 🟠 Advanced Concepts
+- Call Stack  
+- Callback Hell  
+- Promises  
+- Async / Await  
+
+### 🔵 API & Networking
+- Fetch API  
+- Axios  
+- API Activities  
+
+### 🟣 DOM Manipulation
+- DOM Basics & Projects  
+
+### ⚙️ OOP (Object-Oriented Programming)
+- OOP Concepts  
+
+---
+
+## 🗂️ Topic-wise Files
+
+### 🟢 Basics
+- `01_Conditional1.js`
+- `02_PracticeQue2.js`
+- `03_PracticeQue2_3.js`
+- `04_AssignmentQue2.js`
+- `08_Loop.js`
+- `08_Loop2.js`
+- `09_AssignmentQue4.js`
+
+### 🟡 Core JavaScript
+- `05_String.js`
+- `06_Array.js`
+- `10_ObjectLit.js`
+- `11_Function.js`
+
+### 🟠 Advanced Concepts
+- `12_JS_Call_Stack.js`
+- `13_Callback_Hell.js`
+- `14_Promise.js`
+- `15_Promise2.js`
+- `16_Async.js`
+- `17_Await.js`
+- `18_Await2.js`
+
+### 🔵 API & Networking
+- `19_API.js`
+- `20_Axios.js`
+- `20_Axios.html`
+- `21_API_Activity.js`
+- `21_API_Activity.html`
+
+### 🟣 DOM
+- `DOM/`
+
+### ⚙️ OOP
+- `OOPs/`
