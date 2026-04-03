@@ -14,7 +14,7 @@
 
 - 📘 JavaScript concepts  
 - 🧠 Js Core logics 
-- ⚡ Daily consistency  
+- ⚡ Advanced JS  
 
 ---
 
