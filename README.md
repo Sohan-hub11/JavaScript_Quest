@@ -116,14 +116,13 @@
 
 ## 👨‍💻 Author
 
-**Sohan Samanta**  
-🔗 https://github.com/Sohan-hub11  
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
 
 ---
 
 ## ⭐ Support
 
-If you like this repo:
+If you found this helpful,
 
 ⭐ Star it  
 📢 Share it  
